@@ -1,0 +1,212 @@
+[
+    {
+        "name": "בוקר יווני",
+        "description": "ביצי עין מוגשות על טירופיטה גבינות ותרד",
+        "content": "מנה זוגית",
+        "price": "73",
+        "imgUrl": "https://gregcafe.co.il/wp-content/uploads/2024/01/boker-yevani.jpg",
+        "company": "קפה גרג",
+        "prodDate": "10-10-2022",
+        "isCooling": true,
+        "id": 1
+    },
+    {
+        "id": 2,
+        "name": "ארוחת בוקר יחיד מהטבע",
+        "description": "חביתת קטניות , פרוסות גבינה צהובה טבעונית",
+        "imgUrl": "https://gregcafe.co.il/wp-content/uploads/2024/01/boker-yachid-tivoni.jpg",
+        "content": "מנת יחיד",
+        "price": 79,
+        "isCooling": true,
+        "company": "קפה גרג",
+        "prodDate": "10-10-2022"
+    },
+    {
+        "id": 3,
+        "name": "וופל אמריקאי",
+        "description": "קריספי וופל, בצל ופטריות מוקפצות ברוטב 4 גבינות",
+        "imgUrl": "https://gregcafe.co.il/wp-content/uploads/2024/01/vafel-americai-2.jpg",
+        "content": "מנה זוגית",
+        "price": 57,
+        "isCooling": true,
+        "company": "קפה גרג",
+        "prodDate": "5-5-2022"
+    },
+    {
+        "name": "שקשוקה טבעונית",
+        "description": "כדורי פלאפל, קוביות בטטה, חציל קלוי וטחינה גולמית",
+        "content": "מנה זוגית",
+        "price": "67",
+        "imgUrl": "https://gregcafe.co.il/wp-content/uploads/2024/01/shakshuka-tivonit_-2.jpg",
+        "company": "קפה גרג",
+        "prodDate": "5-5-2022",
+        "isCooling": false,
+        "id": 4
+    },
+    {
+        "name": "מעדן מוזלי",
+        "description": "פירות העונה, יוגורט וגרנולה, לצד טחינה גולמית וסילאן",
+        "content": "מנה אחרונה",
+        "price": "54",
+        "imgUrl": "https://gregcafe.co.il/wp-content/uploads/2023/04/musleu.jpg",
+        "company": "קפה גרג",
+        "prodDate": "10-10-2022",
+        "isCooling": false,
+        "id": 5
+    },
+    {
+        "id": 6,
+        "name": "סלט פנצנלה",
+        "description": "מיקס עגבניות, קרעי מוצרלה, שום קונפי, בצל סגול וזיתי קלמטה",
+        "imgUrl": "https://gregcafe.co.il/wp-content/uploads/2023/04/salat-pantsanela.jpg",
+        "content": "מנה זוגית",
+        "price": 47,
+        "isCooling": false,
+        "company": "קפה גרג",
+        "prodDate": "10-10-2022"
+    },
+    {
+        "id": 7,
+        "name": "אצבעות מוצרלה",
+        "description": "בציפוי פריך, לצד רוטב עגבניות איטלקי ופסטו",
+        "imgUrl": "https://gregcafe.co.il/wp-content/uploads/2023/04/etsbaot-muzzarella.jpg",
+        "content": "תוספת",
+        "price": 46,
+        "isCooling": false,
+        "company": "קפה גרג",
+        "prodDate": "10-10-2022"
+    },
+    {
+        "id": 8,
+        "name": "בוקר יווני",
+        "description": "רוטב עגבניות קלאסי, גבינת מוצרלה, שרי, קלמטה, עלי בזיליקום",
+        "imgUrl": "https://gregcafe.co.il/wp-content/uploads/2024/01/pizza-burata.jpg",
+        "content": "מנה זוגית",
+        "price": 83,
+        "isCooling": true,
+        "company": "קפה גרג",
+        "prodDate": "10-10-2022"
+    },
+    {
+        "id": 9,
+        "name": "דגים ארביאטה",
+        "description": "חביתת קטניות , פרוסות גבינה צהובה טבעונית",
+        "imgUrl": "https://gregcafe.co.il/wp-content/uploads/2023/04/dag-yam-arbiata.jpg",
+        "content": "מנת יחיד",
+        "price": 72,
+        "isCooling": true,
+        "company": "קפה גרג",
+        "prodDate": "10-10-2022"
+    },
+    {
+        "id": 10,
+        "name": "רביולי בטטה",
+        "description": "קריספי וופל, בצל ופטריות מוקפצות ברוטב 4 גבינות",
+        "imgUrl": "https://gregcafe.co.il/wp-content/uploads/2023/04/ravioli-batata.jpg",
+        "content": "מנה זוגית",
+        "price": 71,
+        "isCooling": true,
+        "company": "קפה גרג",
+        "prodDate": "5-5-2022"
+    },
+    {
+        "id": 11,
+        "name": "שקשוקה טבעונית",
+        "description": "פיתה יוונית, נתחי סלמון צלוי, טחינה, סלסת פלפלים פיקנטית",
+        "imgUrl": "https://gregcafe.co.il/wp-content/uploads/2024/01/gyros-salmon.jpg",
+        "content": "מנה זוגית",
+        "price": 67,
+        "isCooling": false,
+        "company": "קפה גרג",
+        "prodDate": "5-5-2022"
+    },
+    {
+        "id": 12,
+        "name": "תבשיל סמוסה טבעונית",
+        "description": "כיסוני בצק במילוי בצל מטוגן",
+        "imgUrl": "https://gregcafe.co.il/wp-content/uploads/2024/01/tavshil-samosa-tivoni.jpg",
+        "content": "מנה עיקרית",
+        "price": 61,
+        "isCooling": false,
+        "company": "קפה גרג",
+        "prodDate": "10-10-2022"
+    },
+    {
+        "id": 13,
+        "name": "סלט קפרזה בוראטה",
+        "description": "גבינת בוראטה, עגבניות שרי צבעוניות, פלחי עגבניה",
+        "imgUrl": "https://gregcafe.co.il/wp-content/uploads/2024/01/salat-capreza-burata.jpg",
+        "content": "מנה זוגית",
+        "price": 72,
+        "isCooling": false,
+        "company": "קפה גרג",
+        "prodDate": "10-10-2022"
+    },
+    {
+        "id": 14,
+        "name": "סלט בטטה",
+        "description": "קוביות בטטה אפויות, גבינה בולגרית מגורדת וצ'יפס בטטה",
+        "imgUrl": "https://gregcafe.co.il/wp-content/uploads/2023/04/salat-batata-2.jpg",
+        "content": "תוספת",
+        "price": 67,
+        "isCooling": false,
+        "company": "קפה גרג",
+        "prodDate": "10-10-2022"
+    },
+    {
+        "id": 15,
+        "name": "מנות של גיבורים- טוסט",
+        "description": "טוסט בייג, ירקות חתוכים, מיץ וקינוח",
+        "imgUrl": "https://gregcafe.co.il/wp-content/uploads/2023/04/toast-yeladim.jpg",
+        "content": "עיקרי",
+        "price": "39",
+        "isCooling": null
+    },
+    {
+        "id": 16,
+        "name": "צי'פס 4 גבינות",
+        "description": "צ'יפס ברוטב צ'דר, גבינות ופטרוזיליה.",
+        "imgUrl": "https://gregcafe.co.il/wp-content/uploads/2024/01/chips-chedder.jpg",
+        "content": "תוספת",
+        "price": "48",
+        "isCooling": "remember"
+    },
+    {
+        "name": "ארנצ׳יני",
+        "description": "כדורי ריזוטו פריכים עם פטריות וכמהין, מוצרלה וגבינת מנצ'גו, מונחים על רוטב רוזה, בלסמי מצומצם, פרמז'ן ובצל ירוק.",
+        "imgUrl": "https://gregcafe.co.il/wp-content/uploads/2023/04/arencini.jpg",
+        "content": "תוספות",
+        "price": "46",
+        "isCooling": null,
+        "id": 17
+    },
+    {
+        "name": "דג ים ארביאטה",
+        "description": "פילה דג צלוי, פסטה פפרדלה, שרי שרוף, צ'ילי ירוק, קונפי שום, רוטב נפוליטנה,  עלי בזיליקום ושמן זית.",
+        "imgUrl": "https://gregcafe.co.il/wp-content/uploads/2023/04/dag-yam-arbiata.jpg",
+        "content": "עיקרית",
+        "price": "72",
+        "isCooling": "remember",
+        "id": 18
+    },
+    {
+        "name": "פנקייק שחיתות",
+        "description": "ממרח קינדר, שוקולד לבן, שברי פרלינים, עדשים, כדור גלידה וקצפת.",
+        "imgUrl": "https://gregcafe.co.il/wp-content/uploads/2023/04/pancake-shchitut.jpg",
+        "content": "מנה אחרונה",
+        "price": "54",
+        "isCooling": "remember",
+        "id": 19
+    },
+    {
+        "name": "בריוש צרפתי",
+        "description": "בריוש, חמאת כמהין, רוטב אלפרדו פטריות, גבינת מוצרלה, ביצי עין ובצל ירוק. מוגש עם סלט אישי.",
+        "content": "עיקרי",
+        "price": "64",
+        "imgUrl": "https://gregcafe.co.il/wp-content/uploads/2023/04/brish-tsarfati.jpg",
+        "company": "גרג",
+        "prodDate": "27.06.2024",
+        "isCooling": true,
+        "id": 20
+    }
+]

@@ -1,0 +1,41 @@
+<!-- $.ajax({
+    type: 'GET',
+      dataType:"jsonp",
+    url: 'https://jsonplaceholder.typicode.com/todos/1',
+    headers:{         
+        'Authorization' : 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBWZXIiOiIwLjAuMCIsImV4cCI6NDcyNjM4OTEyMiwibG9jYWxlIjoiIiwibWFzdGVyVmVyIjoiIiwicGxhdGZvcm0iOiIiLCJwbGF0Zm9ybVZlciI6IiIsInVzZXJJZCI6IiJ9.QIZbmB5_9Xlap_gDhjETfMI6EAmR15yBtIQkWFWJkrg',
+        
+    },
+    success: function (data, status, xhr) {
+      console.log('data: ', data);
+    }
+  }); -->
+
+  <!DOCTYPE html>
+<html>
+<head>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>home</h1>
+<input type="button" onclick="getAllStudents()" value="get all atudent">
+<div id="result"></div>
+</body>
+
+<script>
+function getAllStudents(){
+     $.ajax({
+    type: 'GET',
+    url: 'http://localhost:3000/student/',
+    success: function (data, status, xhr) {
+     document.getElementById("result").innerText = data;
+    },
+    error: function (error, status, xhr) {
+    console.log(error);
+    },
+  }); 
+}
+</script>
+</html>
