@@ -12,7 +12,9 @@
 
 **הצגת פרטי מוצר בודד (משתמש, אורח- עם אפשרות הוספה לעגלה, מנהל עם אפשרות לעריכת הפרטים)**
 ![image](https://github.com/MichalMazuz/react-final-project/assets/144708445/57d252ec-5b61-4d73-8f73-345ab12bab10)
+
 ![image](https://github.com/MichalMazuz/react-final-project/assets/144708445/12438fcd-3860-4d48-aebe-52e3fc913cfb)
+
 ![image](https://github.com/MichalMazuz/react-final-project/assets/144708445/b1ed1b76-2354-473b-ad7c-1222561eb07d)
 
 
@@ -30,6 +32,7 @@
 
 **ביצוע הזמנה**
 ![image](https://github.com/MichalMazuz/react-final-project/assets/144708445/8e9ad0b7-d1d4-4afc-99f7-8fbd98b9ccaa)
+
 ![image](https://github.com/MichalMazuz/react-final-project/assets/144708445/69df7a7d-d2f4-45eb-b67f-bd51c1546455)
 
 **המשתמש יכול לצפות בהזמנות הקודמות שביצע**
@@ -41,8 +44,11 @@
 **המנהל יכול לצפות במוצרים להוסיף\לערוך מוצר, צפייה במשתמשים ובהזמנות שבוצעו**
 
 ![image](https://github.com/MichalMazuz/react-final-project/assets/144708445/7e98d812-e299-4ab7-b3f5-4d66259c71d9)
+
 ![image](https://github.com/MichalMazuz/react-final-project/assets/144708445/cf676dad-178b-4809-a29f-e1435d1083c2)
+
 ![image](https://github.com/MichalMazuz/react-final-project/assets/144708445/b00dda1e-0575-49c6-a5fa-190b8a721449)
+
 ![image](https://github.com/MichalMazuz/react-final-project/assets/144708445/ed6c5453-4558-4d37-ab68-141c59a19c55)
 
 ---
