@@ -41,7 +41,7 @@
 **המנהל יכול לצפות במוצרים להוסיף\לערוך מוצר, צפייה במשתמשים ובהזמנות שבוצעו**
 
 ![image](https://github.com/MichalMazuz/react-final-project/assets/144708445/7e98d812-e299-4ab7-b3f5-4d66259c71d9)
-![image](https://github.com/MichalMazuz/react-final-project/assets/144708445/c144285b-17b6-43a0-afab-d540b85b777f)
+![image](https://github.com/MichalMazuz/react-final-project/assets/144708445/cf676dad-178b-4809-a29f-e1435d1083c2)
 ![image](https://github.com/MichalMazuz/react-final-project/assets/144708445/b00dda1e-0575-49c6-a5fa-190b8a721449)
 ![image](https://github.com/MichalMazuz/react-final-project/assets/144708445/ed6c5453-4558-4d37-ab68-141c59a19c55)
 
